@@ -1,0 +1,19 @@
+# =========================
+# Environment / Secrets
+# =========================
+
+# Local environment variables
+.env
+
+# Keep the template
+!.env.example
+
+# =========================
+# macOS
+# =========================
+.DS_Store
+
+# =========================
+# IDE
+# =========================
+.vscode/
